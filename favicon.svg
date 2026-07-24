@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity 40c22a7b915fa3a9</metadata>
-  <rect width="64" height="64" rx="15" fill="hsl(18 66% 25%)"/>
-  <path d="M40 0h24v64H26Z" fill="hsl(108 57% 73%)" opacity="0.82"/>
-  <g transform="rotate(206 32 32)" opacity="0.42"><rect x="16" y="16" width="32" height="32" rx="5" fill="none" stroke="#ffffff" stroke-width="7" transform="rotate(45 32 32)"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">HR</text>
+  <title>홍대 코인노래방 꿀팁</title>
+  <rect width="64" height="64" rx="11" fill="hsl(18 63% 25%)"/>
+  <g transform="rotate(180 32 32)"><circle cx="25" cy="32" r="13" fill="none" stroke="hsl(18 24% 96%)" stroke-width="7"/><circle cx="39" cy="32" r="13" fill="none" stroke="hsl(115 68% 65%)" stroke-width="7"/></g>
 </svg>
